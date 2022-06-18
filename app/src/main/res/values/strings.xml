@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Gramoday</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_profile_picture">User Profile Picture</string>
+    <string name="user_name">User Name</string>
+    <string name="address">Address</string>
+    <string name="speaks_language">Speaks Language</string>
+    <string name="connect">Connect</string>
+    <string name="contact">Contact</string>
+    <string name="commission_agent">Commission Agent</string>
+    <string name="market_name">Market Name</string>
+    <string name="firm_name">Firm Name</string>
+    <string name="shop_number">Shop Number</string>
+    <string name="products">Products</string>
+    <string name="mandi_rates">Mandi Rates</string>
+    <string name="sample_address">Yeshwanthapura Mandi, Bangalore, KA</string>
+    <string name="sample_date">15/06/2022</string>
+    <string name="price">Rs 20 - 21 / 1 kg</string>
+    <string name="click_for_more_options">Click for More Options</string>
+    <string name="sample_time">Updated at 10:18 AM</string>
+    <string name="share">Share</string>
+    <string name="interested">Interested</string>
+    <string name="sample_rating">5</string>
+    <string name="ask_info">Ask Info</string>
+    <string name="rates">Rates</string>
+    <string name="rupee">₹</string>
+    <string name="rates_are_in_1_kg_and_exclude_mandi_commission_and_tax">Rates are in ₹/1 Kg and exclude mandi commission and tax</string>
+    <string name="arrival">Arrival</string>
+    <string name="fresh_arrival">Fresh Arrival</string>
+    <string name="balance_arrival">Balance Arrival</string>
+    <string name="arrivals_are_in_large_trucks_1_large_trucks_20_tons">Arrivals are in Large Trucks. 1 Large Trucks = 20 Tons</string>
+    <string name="analysis">Analysis</string>
+    <string name="date">18 June, 2022</string>
+    <string name="_22000">22000</string>
+    <string name="_2000">2000</string>
+    <string name="sales_is_ok">Sales is ok</string>
+    <string name="address_1">Yeshwanthapura Mandi, Bangalore, KA</string>
+    <string name="address_2">Bangalore , KA</string>
+    <string name="_3797_bumper">3797 (Bumper)</string>
+    <string name="_18">18</string>
+    <string name="_20">20</string>
+    <string name="minus">-</string>
+</resources>
